@@ -1,0 +1,6 @@
+{
+  "name": "LinguaQuiz - Language Vocabulary Mastery",
+  "description": "Interactive vocabulary quiz app with progressive levels, streak tracking, timed challenges, instant explanations, and missed word review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
